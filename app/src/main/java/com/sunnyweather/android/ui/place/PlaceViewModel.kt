@@ -1,4 +1,4 @@
-package com.sunnyweather.android.ui
+package com.sunnyweather.android.ui.place
 
 
 import androidx.lifecycle.MutableLiveData
